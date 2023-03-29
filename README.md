@@ -88,7 +88,7 @@ endmodule
 
 ![de2](https://user-images.githubusercontent.com/93427254/228595513-cccf8f29-49c6-45f2-8a7f-e10a1debdc50.png)
 
-## RTL:
+## Timeline:
 
 ![de1](https://user-images.githubusercontent.com/93427254/228595763-13e392c8-9874-4acd-9a0f-c04854b5059a.png)
 
